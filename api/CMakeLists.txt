@@ -1,0 +1,2 @@
+add_subdirectory(ConfigClass)
+add_subdirectory(DownloadTool)
